@@ -1,0 +1,3 @@
+dt_record IMU_id ax ay az gx gy gz INS_vx INS_vy INS_vz INS_E INS_N INS_U roll pitch yaw
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18
